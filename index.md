@@ -1,5 +1,4 @@
 
-
 ### A fun interactive tutorial aimed for keen users of the R programming language, to kick back and enjoy some cool and interesting simple functions of R.
 
 Everyone, from professional statisticians working in big corporations analyzing data, to undergraduate students, can get stuck while trying something in R. Besides, the mind is a muscle and like every muscle it gets tired after hours and hours of working. This tutorial introduces the fun side of R, aiming to provide a useful break for you if, nothing makes sense anymore, and you are just looking at letters and numbers at 3 am in the morning.
